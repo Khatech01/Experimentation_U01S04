@@ -10,4 +10,4 @@
 > Color and letter code in VScode indicates the current status of the work
 
 
-  
+  ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Note.svg/2048px-Note.svg.png)
